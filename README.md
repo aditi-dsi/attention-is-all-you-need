@@ -16,6 +16,6 @@ python transformers_from_scratch.py
 Requires: Python 3.8+, PyTorch 1.13+
 
 ### Acknowledgement
-This implementation was developed as part of my deep learning study, and is heavily inspired by the lectures of Professor Dr. Arun Rajkumar on responsible for the course [Responsible & Safe AI Systems](https://youtu.be/mbSMzeCQ0NU?si=KJO1A9fUHMiY0mSt).
+This implementation was developed some time back as part of my deep learning study, and is heavily inspired by the lectures of Professor Dr. Arun Rajkumar for the course [Responsible & Safe AI Systems](https://youtu.be/mbSMzeCQ0NU?si=KJO1A9fUHMiY0mSt).
 
 
